@@ -12,7 +12,6 @@ local.properties
 captures/
 .externalNativeBuild/
 .cxx/
-*.apk
 *.aab
 output.json
 output-metadata.json
