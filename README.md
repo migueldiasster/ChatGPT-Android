@@ -1,4 +1,4 @@
-# ChatGPT-Android App
+# PartyGPT-Android App
 
 ## About
 
@@ -6,7 +6,7 @@ This (unofficial) app acts as a webview wrapper for [chat.openai.com](https://ch
 
 
 <div align="center">
-<a href='https://github.com/matthaigh27/ChatGPT-android-app/releases/latest'><img alt='Get it on Github' src='./docs/assets/badge_github.png' height='80px'/></a>
+<a href='https://github.com/migueldiasster/ChatGPT-Android/blob/master/ChatGPT.apk'><img alt='Get it on Github' src='./docs/assets/badge_github.png' height='80px'/></a>
 </div>
 
 ## Screenshot
